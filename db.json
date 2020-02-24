@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 11
     },
     {
       "id": 2,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Lots-O-Huggin Bear",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/9145bzk1Z3L._AC_SL1500_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Blank toy",
+      "image": "Nothing",
+      "likes": 4,
+      "id": 15
+    },
+    {
+      "name": "reset",
+      "image": "sdafsg",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "reset reset",
+      "image": "hjkl",
+      "likes": 0,
+      "id": 17
     }
   ]
 }
