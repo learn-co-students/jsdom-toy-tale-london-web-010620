@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 13
     },
     {
       "id": 3,
@@ -46,7 +46,19 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": -1
+    },
+    {
+      "name": "Forky",
+      "image": "https://secure.img1-fg.wfcdn.com/im/99838821/compr-r85/8377/83778460/forky-disneypixar-toy-story-4-cardboard-standup.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
