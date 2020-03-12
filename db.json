@@ -59,6 +59,12 @@
       "image": "https://uploads-learn.s3.amazonaws.com/uploads/identities/learn_account/avatar/9603a851-68e1-4645-b7f4-6251827b82c7/avatar.jpeg",
       "likes": 4,
       "id": 12
+    },
+    {
+      "name": "Lili-Mae",
+      "image": "https://avatars.githubusercontent.com/u/50544303",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
